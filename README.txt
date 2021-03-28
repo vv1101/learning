@@ -1,2 +1,2 @@
 # learning
-whatever I am trying to learn
+This repository contains some programming and math tricks I am trying to improve.
