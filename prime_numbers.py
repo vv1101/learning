@@ -1,5 +1,5 @@
 # find primes numbers up to n
-n = int(input('number to find primes in between: '))
+n = int(input('find primes in between 0 and: '))
 
 composites = list()
 primes = list()
