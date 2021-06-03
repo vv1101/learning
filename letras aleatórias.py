@@ -1,3 +1,4 @@
+ # my version of an idea a friend of mine had.
 def letra_aletoria(posicao=False):
     from random import randint
     alfabeto = 'A B C D E F G H I J K L M N O P Q R S T U V W X Y Z'
